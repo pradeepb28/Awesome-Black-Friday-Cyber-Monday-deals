@@ -61,6 +61,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 2 | [Spaces](https://spacesformac.xyz) | Declutter & organize your workspace in just a click | - | Nov 21 - Nov 28 | 
 
 ## Books
 
